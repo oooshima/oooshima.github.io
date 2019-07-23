@@ -4,7 +4,7 @@ $(function(){
     alert( '#myimg swiped.' );
   }
 
-window.onload = function() {
+/*window.onload = function() {
   target = 66;
   if (target.webkitRequestFullscreen) {
     target.webkitRequestFullscreen();
@@ -25,5 +25,5 @@ window.onload = function() {
   else {
     alert('ご利用のブラウザはフルスクリーン操作に対応していません');
   }
-}
+}*/
 });
